@@ -1,0 +1,17 @@
+
+h2{
+    color: darkblue
+}
+input{
+    margin-bottom: 5px;
+}
+
+legend{
+    font-size: 125%; 
+    font-weight: bold;
+}
+
+fieldset{
+    color: darkblue;
+    background-color: rgb(217, 231, 247) 
+}
